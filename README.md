@@ -1,3 +1,3 @@
 # Snake_Game
 
-![GameInterface]()
+![GameInterface](https://raw.githubusercontent.com/gangeshks/Snake_Game/main/Screenshot/Screenshot.jpg)
